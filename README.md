@@ -8,9 +8,6 @@ combined using [Webpack 5](https://webpack.js.org/concepts/) to get the build fo
 
 For calculation of all the expressions [math.js](https://www.npmjs.com/package/mathjs) is used.
 
-For UI creation [HTML5](https://www.w3schools.com/html/html5_intro.asp) and [CSS3](https://www.w3schools.com/css/) are used. [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout), the new feature of CSS3 is used for layout creation purpose.
-
-This is a *responsive web application* for viewing in both Mobile and Desktop.
 
 
 ## Features
@@ -36,17 +33,17 @@ git clone https://github.com/anijitsahu/react-app-simple-calculator.git
 ```
 Navigate inside the directory: 
 ```
-cd react-app-simple-calculator/dist
+cd React-Calc
 ```
-Open `index.html` page in a web browser and do all your calculations
- 
-*tested with <img src="screenshots/chrome.png" width="20px" title="Google Chrome">[Google Chrome 89](https://www.google.com/chrome/) and <img src="screenshots/firefox.png" width="25px" title="Firefox Developer edition">[Mozilla Firefox 86](https://www.mozilla.org/en-US/firefox/new/)*  
+Run the Application
+
+```
+npm start
+````
 
 ## Screenshots
 
 Some screens of the application is given below for better understanding. 
-
-Desktop as well as Mobile version of the screenshots are given side by side
 
 <p> Initial screen <br/> 
  <img src="screenshots/InitialScreen.JPG" width="590px" title="Initial screen"/>
