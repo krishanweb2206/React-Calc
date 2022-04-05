@@ -29,8 +29,9 @@ For calculation of all the expressions [math.js](https://www.npmjs.com/package/m
 
 Clone the repository:
 ```
-git clone https://github.com/anijitsahu/react-app-simple-calculator.git
+git clone https://github.com/krishanweb2206/React-Calc.git
 ```
+
 Navigate inside the directory: 
 ```
 cd React-Calc
