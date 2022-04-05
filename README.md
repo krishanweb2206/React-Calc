@@ -49,19 +49,19 @@ Some screens of the application is given below for better understanding.
 Desktop as well as Mobile version of the screenshots are given side by side
 
 <p> Initial screen <br/> 
- <img src="screenshots/InitialScreen.jpg" width="590px" title="Initial screen"/>
+ <img src="screenshots/InitialScreen.JPG" width="590px" title="Initial screen"/>
 </p>
  
  <p> Entering an expression <br/>
- <img src="screenshots/Expression.jpg" width="590px" title="Entering an expression screen"/>
+ <img src="screenshots/Expression.JPG" width="590px" title="Entering an expression screen"/>
  </p>
  
  <p> Result of the expression <br/> 
- <img src="screenshots/ResultExpression.jpg" width="590px" title="Result of the expression screen"/>
+ <img src="screenshots/ResultExpression.JPG" width="590px" title="Result of the expression screen"/>
  </p>
  
  <p> Error screen <br/>
- <img src="screenshots/ErrorScreen.jpg" width="590px" title="Error screen"/>
+ <img src="screenshots/ErrorScreen.JPG" width="590px" title="Error screen"/>
  </p>
  
  
